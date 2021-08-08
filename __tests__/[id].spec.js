@@ -1,4 +1,4 @@
-import Post from './[id]'
+import Post from '../pages/posts/[id].js'
 import { render } from '@testing-library/react'
 
 describe('dynamic post page test suite', () => {
