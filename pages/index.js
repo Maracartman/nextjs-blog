@@ -24,8 +24,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello, I am a Software engineer from Venezuela, living and working at
-          Chile.
+          Hello, I am a Software engineer from somewhere in the world, living and working in somewhere in the world 🤘.
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
